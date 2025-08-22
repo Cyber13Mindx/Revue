@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wvy9AwLCJcY=",
+  "dgSpecHash": "WNWWL6pIGcg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vasil Vasilev\\source\\repos\\Revue\\Revue\\Revue.csproj",
+  "projectFilePath": "C:\\Users\\Vasil Vasilev\\Desktop\\Revue\\Revue\\Revue.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vasil Vasilev\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Vasil Vasilev\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

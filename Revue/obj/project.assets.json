@@ -1027,11 +1027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vasil Vasilev\\source\\repos\\Revue\\Revue\\Revue.csproj",
+      "projectUniqueName": "C:\\Users\\Vasil Vasilev\\Desktop\\Revue\\Revue\\Revue.csproj",
       "projectName": "Revue",
-      "projectPath": "C:\\Users\\Vasil Vasilev\\source\\repos\\Revue\\Revue\\Revue.csproj",
+      "projectPath": "C:\\Users\\Vasil Vasilev\\Desktop\\Revue\\Revue\\Revue.csproj",
       "packagesPath": "C:\\Users\\Vasil Vasilev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vasil Vasilev\\source\\repos\\Revue\\Revue\\obj\\",
+      "outputPath": "C:\\Users\\Vasil Vasilev\\Desktop\\Revue\\Revue\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
